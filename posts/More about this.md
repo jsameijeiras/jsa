@@ -1,5 +1,5 @@
 ---
-title: Everyting that you should know
+title: Everyting you should know
 date: 2024-09-04
 tags: about
 ---

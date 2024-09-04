@@ -1,6 +1,12 @@
-# Minimal Markdown Blog
+# My blog
 
 This is a simple, Git-based blog system that uses Markdown files for content and GitHub Pages for hosting.
+
+Nothing fancy - just words.
+
+Sometimes graphs.
+
+But honestly just words.
 
 ## How to Use
 
