@@ -23,6 +23,8 @@ This is a simple, Git-based blog system that uses Markdown files for content and
 
 Your blog will be available at `https://YOUR_USERNAME.github.io/YOUR_REPO/`.
 
+For example mine is at: `https://jsameijeiras.github.io/jsa/`.
+
 ## Customization
 
 You can customize the appearance of your blog by modifying the CSS in `index.html`.
