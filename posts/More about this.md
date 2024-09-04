@@ -1,7 +1,7 @@
 ---
 title: Everyting that you should know
 date: 2024-09-04
-tags: logic, check, test
+tags: about
 ---
 
 # This is just a test
