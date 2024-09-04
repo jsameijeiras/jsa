@@ -1,3 +1,9 @@
+---
+title: Check 
+date: 2024-09-04
+tags: about
+---
+
 # Advanced Markdown Features
 
 ## Mermaid Diagrams
@@ -29,28 +35,6 @@ sequenceDiagram
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
-```
-
-## GeoJSON
-
-GeoJSON is a format for encoding geographic data structures. Here's an example of GeoJSON code (note that this won't render as a map in standard Markdown, but specialized viewers can display it):
-
-```json
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Eiffel Tower"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [2.294481, 48.858370]
-      }
-    }
-  ]
-}
 ```
 
 ## LaTeX Math Equations
